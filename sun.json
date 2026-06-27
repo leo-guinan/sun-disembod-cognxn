@@ -1,0 +1,382 @@
+{
+  "id": "sun-disembod-cognxn",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@disembod_cognxn Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_ed559cfeb451",
+    "display_name": "disembod_cognxn",
+    "user_id": "@disembod_cognxn",
+    "description": "Community Archive-derived proof-of-search sun for @disembod_cognxn.",
+    "document_count": 233,
+    "word_count": 7420,
+    "active_days": 53,
+    "emissions": [
+      "Love",
+      "World",
+      "Defenderofbasic",
+      "Insurance",
+      "Time",
+      "Don"
+    ],
+    "generated_at": "2026-06-27T15:53:02.987883+00:00",
+    "color": "#f59e0b",
+    "mass": 8.912
+  },
+  "planets": [
+    {
+      "id": "planet_86480e1870ba",
+      "name": "Love",
+      "summary": "Archive cluster around love: 143 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "love",
+        "way",
+        "think",
+        "see",
+        "war"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f7f5f377110e",
+          "title": "Love receipt from 2025-10-12",
+          "excerpt": "@nosilverv War and security also become fractals\n\nThere is no more monopoly on violence, but neither is total anarchy possible\n\n2nd amendment everywhere\n\nNuclear terrorism (nuclear leakage) is possible and almost certainly happens. It isn’t enough to collapse society but is enough to create…",
+          "source_document_id": "1977189016387961144",
+          "timestamp": "2025-10-12T01:46:10+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1977189016387961144",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, way, think, see."
+        },
+        {
+          "id": "art_7301372cf68c",
+          "title": "Love receipt from 2025-09-15",
+          "excerpt": "@HaikuHeroics Actually I'll keep this reply short and just dm you. Basically fmp your friend/enemy distinction is true and important because it leads you to courage and bravery in the name of building something positive. Yes, the darkness and depravity you see in the left is really there. I…",
+          "source_document_id": "1967538061044277645",
+          "timestamp": "2025-09-15T10:36:43+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1967538061044277645",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, way, think, see."
+        },
+        {
+          "id": "art_25348c0eeac9",
+          "title": "Love receipt from 2025-10-18",
+          "excerpt": "@ScarletAstrorum Same I just spent the last summer at home after a major illness, and years spent in the spiritual wilderness\n\nTaking long walks around the neighborhood, feeling like I had finally come back home, and really feeling in my gut that all I want to be is a trustworthy, responsible,…",
+          "source_document_id": "1979376703899340830",
+          "timestamp": "2025-10-18T02:39:15+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1979376703899340830",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, way, think, see."
+        },
+        {
+          "id": "art_36e4f0aa2767",
+          "title": "Love receipt from 2025-10-12",
+          "excerpt": "@nosilverv The whole world is made of egregores, these all converge to a planetary love egregore\n\nMaybe there is some kind of identity between Earth and Mars, but this gets reconciled and then we find aliens through heart consciousness\n\nThis is as far out as I can go\n\nLmaooo I’m not…",
+          "source_document_id": "1977189144180015406",
+          "timestamp": "2025-10-12T01:46:41+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1977189144180015406",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, way, think, see."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_29c7a45cc6b0",
+      "proof_score": 0.847,
+      "mass": 25.031,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_f4898931aa6e",
+      "name": "World",
+      "summary": "Archive cluster around world: 16 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "world",
+        "social",
+        "media",
+        "now",
+        "health"
+      ],
+      "artifacts": [
+        {
+          "id": "art_fe12a6477586",
+          "title": "World receipt from 2025-10-25",
+          "excerpt": "@evalladen @Johnny2Fingersz Ok now I see. Yes, making human beings play on a more level field, and become independent of them.\n\nDo you think this would result in a world where humans live like hunter gatherers again? Back to the jungle except now you have egregores as the alpha species and you as a person…",
+          "source_document_id": "1982022975068230084",
+          "timestamp": "2025-10-25T09:54:36+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1982022975068230084",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: world, social, media, now."
+        },
+        {
+          "id": "art_497fc5a767f1",
+          "title": "World receipt from 2025-07-23",
+          "excerpt": "@ESYudkowsky this is true from the perspective of those operating in the modes of the world before social media, it is not true for those who have appropriately evolved their cultural practices to a world with social media in it, an individual can do this, although it is hard",
+          "source_document_id": "1948084355232092491",
+          "timestamp": "2025-07-23T18:14:38+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1948084355232092491",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: world, social, media, now."
+        },
+        {
+          "id": "art_61b8ee6b723e",
+          "title": "World receipt from 2025-10-05",
+          "excerpt": "US employer based private health insurance exists because of Uncle Sam’s liberal good intentions\n\nThe IRS decided to exempt health insurance benefits from being taxed in 1943 after wage controls were imposed to prevent inflation from the war effort\n\nThe system locked into a tight relationship between employers, employees, and state/federal government because of this historical event, it evolved from then on unabated\n\nThe IRS’s decision, then under FDR, represents great liberal governance at the height of American industrial society— it was gently putting workers on health insurance and forcing employers to support it at a time when the nation was under pressure from the war\n\nThis made sense at a time when you’d work for the same company your whole life— in the atomized, polarized, lonely, socially networked America of 2025, it no longer makes sense\n\nHealth insurance costs are the hidden ",
+          "source_document_id": "1974885763805548544",
+          "timestamp": "2025-10-05T17:13:52.000Z",
+          "url": "",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: world, social, media, now."
+        },
+        {
+          "id": "art_31c7a3bf90e0",
+          "title": "World receipt from 2025-10-07",
+          "excerpt": "This is an incredible insight. I fully agree. Reading is passive and detached from the world.\n\nOn a very related note, tech became a lot less distracting once I stopped resisting how I used it.\n\nI realized all my internal discourse about how tech is bad for me was actually just because I felt bad about not having full control over my attention. But letting your attention wander where it wants to is how you create things. It’s how I found your account.",
+          "source_document_id": "1975704253953155075",
+          "timestamp": "2025-10-07T23:26:15.000Z",
+          "url": "",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: world, social, media, now."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_d3acd7f714f1",
+      "proof_score": 0.633,
+      "mass": 20.65,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_e03a095ff186",
+      "name": "Defenderofbasic",
+      "summary": "Archive cluster around defenderofbasic: 29 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "defenderofbasic",
+        "every",
+        "pattern",
+        "toastreuben",
+        "healthcare"
+      ],
+      "artifacts": [
+        {
+          "id": "art_703b14179dab",
+          "title": "Defenderofbasic receipt from 2025-10-05",
+          "excerpt": "@DefenderOfBasic There are no patterns, there is every pattern\n\nYou are no pattern, you are every pattern\n\nOne step beyond @Meaningness",
+          "source_document_id": "1974886375607636144",
+          "timestamp": "2025-10-05T17:16:18+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1974886375607636144",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: defenderofbasic, every, pattern, toastreuben."
+        },
+        {
+          "id": "art_58fcffb102e9",
+          "title": "Defenderofbasic receipt from 2025-10-23",
+          "excerpt": "@DefenderOfBasic @DaoistEgo @alphamemelabz @kaefairy_ This fantastic! I was looking for that exact thing thank you!",
+          "source_document_id": "1981496781876928569",
+          "timestamp": "2025-10-23T23:03:41+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1981496781876928569",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: defenderofbasic, every, pattern, toastreuben."
+        },
+        {
+          "id": "art_d7942893ef67",
+          "title": "Defenderofbasic receipt from 2025-10-23",
+          "excerpt": "@DefenderOfBasic @DaoistEgo This is exactly how I feel. I've only been on social media as an observer for the last few years, and slowly left more and more egregores/audiences (this is a new word for me, but central), until tpot was the only one left.\n\nNow I have some insights and want to share them but…",
+          "source_document_id": "1981497370165858796",
+          "timestamp": "2025-10-23T23:06:02+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1981497370165858796",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: defenderofbasic, every, pattern, toastreuben."
+        },
+        {
+          "id": "art_8cb9de479c5f",
+          "title": "Defenderofbasic receipt from 2025-10-05",
+          "excerpt": "@DefenderOfBasic It already is if we can start to ignore the details",
+          "source_document_id": "1974629145381675012",
+          "timestamp": "2025-10-05T00:14:09+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1974629145381675012",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: defenderofbasic, every, pattern, toastreuben."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_b1bbee6480a5",
+      "proof_score": 0.69,
+      "mass": 18.897,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_9fa1cc5de85c",
+      "name": "Insurance",
+      "summary": "Archive cluster around insurance: 13 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "insurance",
+        "health",
+        "communities",
+        "providers",
+        "states"
+      ],
+      "artifacts": [
+        {
+          "id": "art_9f9f350d1b63",
+          "title": "Insurance receipt from 2025-10-12",
+          "excerpt": "@nosilverv States, especially the US, relax their grip on society, become far leaner and more fluid\n\nStates, especially Western states, are mostly insurance regimes, that function gets replaced with bottom up nested insurance regimes that self-organize using the blockchain internet\n\nSociety…",
+          "source_document_id": "1977178323114770442",
+          "timestamp": "2025-10-12T01:03:41+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1977178323114770442",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: insurance, health, communities, providers."
+        },
+        {
+          "id": "art_35559358756a",
+          "title": "Insurance receipt from 2025-10-05",
+          "excerpt": "Health insurance premiums are going up next year to unusual levels— this is a signal showing immense vulnerability at the intersection of multiple overbearing and inefficient systems in America\n\nI wish there was an open source federated social media for real communities to create…",
+          "source_document_id": "1974840474700820863",
+          "timestamp": "2025-10-05T14:13:54+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1974840474700820863",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: insurance, health, communities, providers."
+        },
+        {
+          "id": "art_faa32e4202bb",
+          "title": "Insurance receipt from 2025-10-05",
+          "excerpt": "Health insurance costs in the US are the costs of loneliness\n\nLet’s create a open source social media company that connects care providers with individuals needing care and individuals with real communities that can care for themselves\n\nInstead of crowdsourcing, the community…",
+          "source_document_id": "1974873611728195926",
+          "timestamp": "2025-10-05T16:25:35+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1974873611728195926",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: insurance, health, communities, providers."
+        },
+        {
+          "id": "art_b810751f99ed",
+          "title": "Insurance receipt from 2025-10-05",
+          "excerpt": "Health insurance premiums are going up next year to unusual levels— this is a signal showing immense vulnerability at the intersection of multiple overbearing and inefficient systems in America\n\nI wish there was an open source federated social media for real communities to create their own health insurance policy with secure data sharing with other community instances in a nested form\n\nPeople would be assisted in making collective democratic decisions on their insurance policies by LLMs trained on this nested data and owned by them. They could adjust for individual cases on a spontaneous basis with collective agreement and they would be able to set the constitution for how to make these decisions\n\nFor data sharing between instances, the creators would kick off initial conditions for these constitutions based on best practices from political theory\n\nAvoid regulations by starting with chur",
+          "source_document_id": "1974840474595966976",
+          "timestamp": "2025-10-05T14:13:54.000Z",
+          "url": "",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: insurance, health, communities, providers."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_fd34f9c70a28",
+      "proof_score": 0.614,
+      "mass": 19.384,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_d6912f213f8d",
+      "name": "Time",
+      "summary": "Archive cluster around time: 15 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "same",
+        "transcendent",
+        "personal",
+        "insights"
+      ],
+      "artifacts": [
+        {
+          "id": "art_d2bf61eebf9d",
+          "title": "Time receipt from 2025-10-04",
+          "excerpt": "@LilithDatura @ej_moura All of it is transcendent and personal at the same time",
+          "source_document_id": "1974617976860213755",
+          "timestamp": "2025-10-04T23:29:46+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1974617976860213755",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, same, transcendent, personal."
+        },
+        {
+          "id": "art_ac7754a096f6",
+          "title": "Time receipt from 2025-09-13",
+          "excerpt": "@HaikuHeroics Seriously man, be violent, but even more so be loving of your enemy as you are violent. You can be a Roman Caesar, but being Christ at the same time is where it’s at. A pagan aristocrat should have no trouble embodying the contradiction between warrior and martyr.",
+          "source_document_id": "1966777425913913722",
+          "timestamp": "2025-09-13T08:14:13+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1966777425913913722",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, same, transcendent, personal."
+        },
+        {
+          "id": "art_e4f8d42d1e7b",
+          "title": "Time receipt from 2025-10-04",
+          "excerpt": "@LilithDatura @ej_moura You ARE the center of the universe\n\nIt’s loving you all the time\n\nBut so is everything else\n\nWe are all loving each other all the time\n\nThe rest is just drama, a story with no difference",
+          "source_document_id": "1974618440783798388",
+          "timestamp": "2025-10-04T23:31:37+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1974618440783798388",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, same, transcendent, personal."
+        },
+        {
+          "id": "art_102f73066743",
+          "title": "Time receipt from 2025-08-19",
+          "excerpt": "a planetary consciousness is actually very intimate and up close\n\npersonal and transcendent at the same time\n\nyou will have a personal relationship with the planet, and perhaps, if you're lucky, the universe",
+          "source_document_id": "1957600106729075007",
+          "timestamp": "2025-08-19T00:26:50+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1957600106729075007",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, same, transcendent, personal."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9cbf867e87c8",
+      "proof_score": 0.627,
+      "mass": 18.387,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_ffa6182dafbb",
+      "name": "Don",
+      "summary": "Archive cluster around don: 17 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "work",
+        "yourself",
+        "thing",
+        "order"
+      ],
+      "artifacts": [
+        {
+          "id": "art_997e06c0014a",
+          "title": "Don receipt from 2025-10-12",
+          "excerpt": "@nosilverv Village-like communities in fractal shapes connected by communication and transportation networks, interface with everything else is AI\n\nI don't think remote work is gone, I think work separate from your community is gone\n\nWhat's interesting now is what happens to big social…",
+          "source_document_id": "1977177469875786217",
+          "timestamp": "2025-10-12T01:00:17+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1977177469875786217",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, work, yourself, thing."
+        },
+        {
+          "id": "art_11f7e755df10",
+          "title": "Don receipt from 2025-10-20",
+          "excerpt": "@ScarletAstrorum Why are you anti Gnosticism in one sentence if you don’t mind me asking",
+          "source_document_id": "1980131789969694948",
+          "timestamp": "2025-10-20T04:39:42+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1980131789969694948",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, work, yourself, thing."
+        },
+        {
+          "id": "art_760f8e564933",
+          "title": "Don receipt from 2025-09-13",
+          "excerpt": "@HaikuHeroics You are in a dark vibe today. I respect your book and your aspiring aristocratic attitude, but don’t feed into your darkness. I care about you. I was interested in paganism, but it lacks spiritually sophistication if it can’t stop you from making yourself post stuff like this.",
+          "source_document_id": "1966776139948454032",
+          "timestamp": "2025-09-13T08:09:07+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1966776139948454032",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, work, yourself, thing."
+        },
+        {
+          "id": "art_5ef3b87d85d6",
+          "title": "Don receipt from 2025-07-28",
+          "excerpt": "I formally have a contractual relationship with United\n\nBut that doesn’t mean we don’t feel things for each other\n\nAren’t we both supposed to respect basic polite etiquette as rights-bearing equal members of a republic?!!",
+          "source_document_id": "1949909125728485376",
+          "timestamp": "2025-07-28T19:05:37+00:00",
+          "url": "https://x.com/disembod_cognxn/status/1949909125728485376",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, work, yourself, thing."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c3dfc1a3aec7",
+      "proof_score": 0.639,
+      "mass": 19.211,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
